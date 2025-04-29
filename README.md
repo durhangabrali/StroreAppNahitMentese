@@ -1,1 +1,1 @@
-# StroreAppNahitMentese
+Bu uygulama Nahit Menteşe Mesleki ve Teknik Anadolu Lisesi, Nesne Tabanlı Programlama dersinde geliştirilmiştir. Bu uygulamayı geliştirmedeki amaç nesne yönelimli programlama ve katmanlı yazılım mimarisi geliştirme prensiplerini öğretmektir. iyapılmıştır.
